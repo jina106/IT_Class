@@ -16,5 +16,5 @@
 <pre><code>
 코드블럭안
 </pre></code>
-<img width="" height="" src="./jpg/41_(2)/jpg"></img>
+<img width="" height="" src="./jpg/토끼.jpg"></img>
 
